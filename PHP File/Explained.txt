@@ -1,0 +1,19 @@
+These php files will be uploaded to
+000webhost.com, by using the 'File Manager'
+function of the website
+
+Then Android Studio will get the PHP file
+from the webserver
+
+Because application are installed
+on individual phone, so you need a webserver
+where everyone can connect and get PHP 
+file from.
+
+Webserver Name - livechat987
+Email - prestonloz97@gmail.com
+ps - a1b2c3d4
+Information above is website registered email
+and website's password
+*Note: website name & password can be
+changed

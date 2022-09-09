@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_send.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\fragment_send.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_payment_popup.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\payment_popup.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_home.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\drawable_standard_room.jpg.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\drawable\\standard_room.jpg"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paypal.jpeg.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\drawable\\paypal.jpeg"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deluxe_double_room.jpg.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\drawable\\deluxe_double_room.jpg"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deluxe_tripple_room.jpg.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\drawable\\deluxe_tripple_room.jpg"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_choose_date.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\activity_choose_date.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup_room_type.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\menu\\popup_room_type.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_myaccount.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\fragment_myaccount.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_home_drawer.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\drawable_executive_room.jpg.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\drawable\\executive_room.jpg"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tools.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\fragment_tools.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_share.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\fragment_share.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_home.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_choose_room.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\layout\\activity_choose_room.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Studio\\HotelPintar Apache Database\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\Android Studio\\HotelPintar Apache Database\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    }
+]
